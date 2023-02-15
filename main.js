@@ -1,4 +1,4 @@
-Alert("O GitHub Pages não permite a reprodução destes áudios, porém o código funciona perfeitamente fora do Github")
+Alert("O GitHub Pages não permite a reprodução destes arquivo JS, porém o código funciona perfeitamente fora do Github")
 
 function tocaSom (idElementoAudio) {
     document.querySelector(idElementoAudio).play();
